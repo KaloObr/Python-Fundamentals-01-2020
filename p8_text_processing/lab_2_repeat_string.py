@@ -1,0 +1,3 @@
+strings = input().split()
+result = ''
+
